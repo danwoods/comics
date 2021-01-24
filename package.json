@@ -1,0 +1,19 @@
+{
+  "name": "comics",
+  "version": "1.0.0",
+  "description": "Code used in our Comics database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danwoods/comics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danwoods/comics/issues"
+  },
+  "homepage": "https://github.com/danwoods/comics#readme"
+}
